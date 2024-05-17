@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidekashilawliet&label=Profile%20views&color=0e75b6&style=flat-square" alt="hidekashilawliet" /> </p>
 
-- 🌱 I’m currently learning **HTML/CSS/JS/C/Python/Cyber (i know i should learn node.js dw i will)**
+- 🌱 I’m currently learning **JS/Angular/C/Python/Cyber (i know i should learn node.js dw i will)**
 
 - 📫 How to reach me **hideaki.lawliet@proton.me or on discord "hidekashi"**
 
