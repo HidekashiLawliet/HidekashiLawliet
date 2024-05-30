@@ -31,4 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
-###
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidekashilawliet&show_icons=true&theme=dracula&title_color=ffffff&text_color=d9fdff&locale=en" alt="hidekashilawliet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hidekashilawliet&theme=dark" alt="hidekashilawliet" /></p>
