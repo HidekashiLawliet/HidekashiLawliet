@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Hidekashi</h1>
 <h3 align="center">I want to learn programation again from the basics, i worked with C for one years but i decide to start again from scratch</h3>
 
