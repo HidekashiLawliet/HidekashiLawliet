@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hidekashi</h1>
 <h3 align="center">I want to learn programation again from the basics, i worked with C for one years but i decide to start again from scratch</h3>
-
+<p align="center">http://porfolio-quentin.loddo.s3-website.eu-north-1.amazonaws.com </p> <p align="center"> My portfolio host with aws and made with angular </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidekashilawliet&label=Profile%20views&color=0e75b6&style=flat-square" alt="hidekashilawliet" /> </p>
 
 - 🌱 I’m currently learning **JS/Angular/C/Python/Cyber (i know i should learn node.js dw i will)**
