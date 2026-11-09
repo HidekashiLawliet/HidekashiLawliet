@@ -9,10 +9,6 @@
 
 - ⚡  **I like playing video games too so "Hidestral" for valorant "Hidekashi" on steam and Hide34ki on epic**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/kant.1__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hidestral" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
