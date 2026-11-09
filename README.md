@@ -5,7 +5,11 @@
 
 - 📫 How to reach me **hideaki.lawliet@proton.me or on discord "hidekashi"**
 
-- ⚡  **I like playing video games too so "Hidestral" for valorant "Hidekashi" on steam and Hide34ki on epic**
+- ⚡ I like playing video games, mainly souls games, Final Fantasy XIV, Minecraft, Cyberpunk, monster hunter
+
+-📖  During my free time i like to study philosophie, currently i'm reading Herman Hess steppenwolf, but i've also read some nieztche, kundera, kant, plato and more
+
+-💪 I also enjoy sport when i have the time, basket-ball, street workout, i've also played football for 6 years in the past
 
 
 <h3 align="left">Languages and Tools:</h3>
